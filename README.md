@@ -86,3 +86,4 @@ This project is licensed under the MIT License. You are free to modify and distr
 This game application demonstrates integrating Tkinter and Pygame with SQLite in a Python project. Special thanks to all contributors and the open-source community.
 
 ---
+# Good Luck!
